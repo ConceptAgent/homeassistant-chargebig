@@ -1,4 +1,4 @@
-# chargeBIG for Home Assistant
+# Unofficial Home Assistant integration for MAHLE chargeBIG charging stations
 
 [![Validate](https://github.com/ConceptAgent/homeassistant-chargebig/actions/workflows/validate.yml/badge.svg)](https://github.com/ConceptAgent/homeassistant-chargebig/actions/workflows/validate.yml)
 [![hacs](https://img.shields.io/badge/HACS-Default-orange.svg)](https://github.com/hacs/integration)
